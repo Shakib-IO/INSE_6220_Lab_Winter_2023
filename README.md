@@ -1,1 +1,1 @@
-# INSE 6220 Lab Winter 2023
+# INSE 6220 (Advanced Statistical Approaches to Quality) Lab Winter 2023
