@@ -1,1 +1,1 @@
-# INSE_6220_Lab_Winter_2023
+# INSE 6220 Lab Winter 2023
